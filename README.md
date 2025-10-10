@@ -10,8 +10,8 @@
 
 <h3 align="center">
   🌏 Sri Lankan <br> 
-  📚 Undergraduate Student at SLIIT City UNI <br>
-  🚀 MERN/SERN Web Developer | AI/ML Enthusiast | Graphics & UI/UX Designer <br>
+  📚 Undergraduate Student at University of Wolverhampton <br>
+  🚀 MERN Web Developer | AI/ML Enthusiast | Graphics & UI/UX Designer <br>
 </h3>
 
 ---
