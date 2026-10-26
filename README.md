@@ -2,9 +2,7 @@
 <div align="center">
 
 <p align="center">
-  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
-       width="120"
-       alt="GitHub Octocat Logo"/>
+  <img align="center" style="border-radius: 50%; height: 200px; width: 200px;" src="https://media.giphy.com/avatars/mwooodward/cIe5MvDvX4Vc.gif" />
 </p>
 
 <h1>👋 Hi, I'm Saabith!</h1>
