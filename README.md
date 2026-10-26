@@ -6,7 +6,7 @@
 <h1 align="center">👋 Hi, I'm Saabith</h1>
 
 <h3 align="center">
-  💼 Data Scientist | 🧱 3× Databricks Certified | 🤖 AI/ML & Data Engineering
+  💼 Data Scientist | 🧱 Databricks Certified | 🤖 AI/ML & Data Engineering
 </h3>
 
 <p align="center">
@@ -22,7 +22,7 @@
 ## 🚀 About Me
 
 - 💼 Data Scientist
-- 🏅 **3× Databricks Certified**
+- 🏅 **Databricks Certified**
 - 🧱 Focused on Databricks, Apache Spark, PySpark, and Data Engineering
 - 🤖 Interested in Generative AI, Machine Learning, and AI-driven solutions
 - 📊 Passionate about data analytics and building scalable data pipelines
