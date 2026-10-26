@@ -1,7 +1,11 @@
 
-<div align="center">
+<p align="center">
+  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
+       width="120"
+       alt="GitHub Octocat Logo"/>
+</p>
 
-<h1>👋 Hi, I'm Saabith!</h1>
+<h1 align="center">👋 Hi, I'm Saabith!</h1>
 
 <h3>💼 Data Scientist</h3>
 <h3>🧱 Databricks Certified | 🤖 AI/ML & Data Engineering</h3>
