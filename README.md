@@ -1,13 +1,8 @@
 <div align="center">
 
-<img src="https://saabith.vercel.app/img/me.webp" width="120" alt="Mohamed Saabith" />
+<img src="assets/header.svg" width="100%" alt="Mohamed Saabith — Data Scientist and AI/ML Engineer" />
 
-# Mohamed Saabith
-
-**Data Scientist &nbsp;·&nbsp; AI/ML Engineer &nbsp;·&nbsp; 2× Databricks Certified**
-
-I turn raw data into predictive ML models and LLM-powered applications.<br/>
-Colombo, Sri Lanka
+<a href="https://saabith.vercel.app/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1200&color=FF5A36&center=true&vCenter=true&width=620&height=40&lines=Turning+raw+data+into+predictive+ML+models;Building+LLM-powered+RAG+applications;Scalable+PySpark+pipelines+on+Databricks;2%C3%97+Databricks+Certified+%C2%B7+Colombo%2C+Sri+Lanka" alt="Turning raw data into predictive ML models; building LLM-powered RAG applications; scalable PySpark pipelines on Databricks" /></a>
 
 <br/>
 
@@ -160,6 +155,13 @@ A CNN image classifier using ResNet50 transfer learning, with an augmentation pi
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Saabithsp&theme=dark&hide_border=true&background=0D1117" />
   <img src="https://streak-stats.demolab.com/?user=Saabithsp&theme=default&hide_border=true" alt="GitHub contribution streak for Saabithsp" />
+</picture>
+
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Saabithsp/Saabithsp/output/github-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/Saabithsp/Saabithsp/output/github-snake.svg" alt="Animation of a snake eating Saabithsp's GitHub contribution graph" />
 </picture>
 
 </div>
