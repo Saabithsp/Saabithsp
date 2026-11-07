@@ -1,117 +1,121 @@
 <div align="center">
 
+<img src="https://saabith.vercel.app/img/me.webp" width="120" alt="Mohamed Saabith" />
+
 # Mohamed Saabith
 
-**Data Scientist &nbsp;·&nbsp; Databricks Certified &nbsp;·&nbsp; Data Engineering & Generative AI**
+**Data Scientist &nbsp;·&nbsp; AI/ML Engineer &nbsp;·&nbsp; 2× Databricks Certified**
 
-Building scalable data pipelines and machine learning solutions on the Databricks Lakehouse.<br/>
-Based in Sri Lanka.
+I turn raw data into predictive ML models and LLM-powered applications.<br/>
+Colombo, Sri Lanka
 
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-saabith.vercel.app-000000?style=flat-square&logo=vercel&logoColor=white)](https://saabith.vercel.app/)
+[![CV](https://img.shields.io/badge/Download-CV-2EA44F?style=flat-square&logo=readdotcv&logoColor=white)](https://saabith.vercel.app/cv/Mohamed-Saabith-CV.pdf)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-saabith-5980a5223/)
 [![Email](https://img.shields.io/badge/saabithsp@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:saabithsp@gmail.com)
-[![GitHub](https://img.shields.io/github/followers/Saabithsp?style=flat-square&logo=github&label=Follow&color=181717)](https://github.com/Saabithsp)
 
 </div>
+
+<br/>
+
+<table align="center">
+<tr>
+<td align="center" width="25%"><h2>1.8M+</h2><sub>records processed with PySpark</sub></td>
+<td align="center" width="25%"><h2>20K+</h2><sub>events per day in streaming ETL</sub></td>
+<td align="center" width="25%"><h2>92%</h2><sub>CNN accuracy with ResNet50</sub></td>
+<td align="center" width="25%"><h2>2×</h2><sub>Databricks Associate certifications</sub></td>
+</tr>
+</table>
 
 ---
 
 ## About
 
-I'm a data scientist working at the intersection of **data engineering** and **machine learning**. My work centres on the Databricks platform — designing reliable PySpark pipelines, turning raw data into analysis-ready datasets, and taking machine learning and generative AI use cases from experimentation towards production.
+I'm a Data Scientist with a **First Class Honours degree in Computer Science** and two **Databricks certifications** (Machine Learning and Generative AI), currently working in industry. I build end-to-end AI systems — from scalable PySpark pipelines and cloud data lakes to predictive models and LLM-powered RAG applications.
 
-Alongside data work, I have a background in software engineering and high-performance computing, which shapes how I build: production-minded, performance-aware and focused on solutions people can actually use.
+My work spans machine learning (XGBoost, Random Forest, CNNs), generative AI with retrieval-augmented generation, and event-driven ETL on AWS and Databricks lakehouse architectures — always with an eye on **explainability, testing and production-ready reliability**.
 
-- **Core focus:** Databricks, Apache Spark and PySpark for large-scale data processing
-- **Machine learning:** predictive modelling, explainable AI (SHAP) and analytics with Python
-- **Generative AI:** building practical applications with large language models, including locally hosted LLMs
-- **Approach:** clean, scalable pipelines that deliver data people can trust
+---
+
+## Expertise
 
 <table>
 <tr>
-<td valign="top" width="33%">
+<td valign="top" width="50%">
 
-**Currently**
-
-Building data and AI solutions on the Databricks Lakehouse
-
-</td>
-<td valign="top" width="33%">
-
-**Exploring**
-
-LLM applications, retrieval-augmented generation and responsible AI
+#### Machine Learning & Data Science
+Predictive models from feature engineering to evaluation — gradient boosting, ensembles, CNNs and transfer learning, with SHAP/LIME explainability.
 
 </td>
-<td valign="top" width="33%">
+<td valign="top" width="50%">
 
-**Open to**
+#### Generative AI & RAG
+LLM applications grounded in your data — embeddings, vector search and retrieval pipelines that give accurate, contextual answers.
 
-Collaborations on data engineering, ML and GenAI projects
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%">
+
+#### Data Engineering & Databricks
+Scalable ETL/ELT and event-driven pipelines on lakehouse architecture — Spark processing, Delta Lake, Parquet and cloud data lakes.
+
+</td>
+<td valign="top" width="50%">
+
+#### Analytics & BI
+Forecasting, clustering and dashboards that turn data into decisions — and cut manual reporting along the way.
 
 </td>
 </tr>
 </table>
+
+Also experienced in full-stack engineering for shipping ML to users — React, Django, FastAPI, Node.js, Docker and CI/CD with GitHub Actions.
 
 ---
 
 ## Featured Projects
 
-<table>
-<tr>
-<td valign="top" width="50%">
+### [CureLens AI](https://github.com/Saabithsp/CureLens-AI) &nbsp;<sub>ML · RAG · Explainable AI</sub>
 
-### [CureLens AI](https://github.com/Saabithsp/CureLens-AI)
+A personalised medication-risk platform. Multi-model ML (XGBoost, Random Forest, cosine similarity) predicts drug-interaction risk, and a RAG chatbot combines structured drug data with LLM reasoning, with SHAP/LIME explaining each prediction.
 
-AI-powered medication safety platform that predicts drug–drug interactions, assesses personalised medication risk from patient profiles and recommends safer alternatives — with explainable predictions.
+- Processed **1.8M+ DrugBank records** with PySpark, cutting preprocessing time by **60%**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![SHAP](https://img.shields.io/badge/Explainable_AI-SHAP-555555?style=flat-square)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-189FDD?style=flat-square) ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white) ![RAG](https://img.shields.io/badge/RAG-8E44AD?style=flat-square) ![SHAP](https://img.shields.io/badge/SHAP%20%2F%20LIME-555555?style=flat-square) ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
 
-</td>
-<td valign="top" width="50%">
+### Sales Forecasting Pipeline &nbsp;<sub>Data Engineering · Forecasting</sub>
 
-### [HPC Password Cracker](https://github.com/Saabithsp/HPC-Portfolio-Password-Cracker)
+An event-driven lakehouse-style pipeline: RabbitMQ ingestion with dead-letter queues, PySpark ELT to Parquet on S3, Glue and Athena for querying, forecasting models and Power BI dashboards.
 
-High-performance computing portfolio: parallel password cracking with POSIX threads and CUDA, plus GPU-accelerated matrix multiplication and image blur.
+- Handles **20K+ events per day**, with **30% lower storage** using Parquet and **25% better forecast accuracy**
 
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white)
-![PThreads](https://img.shields.io/badge/PThreads-555555?style=flat-square)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white) ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white) ![AWS](https://img.shields.io/badge/AWS_S3_·_Glue_·_Athena-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white) ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 
-</td>
-</tr>
-<tr>
-<td valign="top" width="50%">
+### Face Mask Detection &nbsp;<sub>Deep Learning · Computer Vision</sub>
 
-### [MovieGo](https://github.com/Saabithsp/MovieGo-Mobile-Application)
+A CNN image classifier using ResNet50 transfer learning, with an augmentation pipeline and hyperparameter tuning.
 
-Android app for exploring movies with real-time data from external APIs, efficient image loading and a Firebase-powered backend.
+- Reached **92% accuracy**; augmentation reduced overfitting by **~20%** and tuning lifted F1 by **~10%**
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white) ![ResNet50](https://img.shields.io/badge/ResNet50-555555?style=flat-square)
 
-</td>
-<td valign="top" width="50%">
+<details>
+<summary><b>Also built — web, mobile and systems projects</b></summary>
+<br/>
 
-### [BuzzMe](https://github.com/Saabithsp/BuzzMe_Blogging_Mobile_Application)
+| Project | Description | Stack |
+| :--- | :--- | :--- |
+| **PN Fernando Seafood Palace** | Full-stack reservations and inventory system with RBAC, CI/CD and Docker | React · Node.js · Docker |
+| [**AP.lk Payment Interface**](https://appayment-xi.vercel.app) | Clean, secure online checkout flow — [live demo](https://appayment-xi.vercel.app) | MERN |
+| [**HPC Password Cracker**](https://github.com/Saabithsp/HPC-Portfolio-Password-Cracker) | Parallel password cracking with PThreads and CUDA, plus GPU matrix multiplication and image blur | C++ · CUDA |
+| [**Ceylon Taste**](https://github.com/Saabithsp/Ceylon-Taste-Web-Application) | Dynamic site showcasing traditional Sri Lankan cuisine | PHP · MySQL |
+| [**MovieGo**](https://github.com/Saabithsp/MovieGo-Mobile-Application) | Android app for browsing and discovering movies | Android · Java · Firebase |
+| [**BuzzMe**](https://github.com/Saabithsp/BuzzMe_Blogging_Mobile_Application) | Secure offline-first Android blogging app | Android · Java · SQLite |
 
-Secure Android blogging app with offline-first storage, image attachments, search, sharing via Android intents and online publishing.
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-
-</td>
-</tr>
-</table>
-
-<p align="right"><a href="https://github.com/Saabithsp?tab=repositories">View all repositories →</a></p>
+</details>
 
 ---
 
@@ -119,39 +123,33 @@ Secure Android blogging app with offline-first storage, image attachments, searc
 
 | Area | Technologies |
 | :--- | :--- |
-| **Data Engineering** | ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white) ![PySpark](https://img.shields.io/badge/PySpark-306998?style=flat-square&logo=python&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
-| **ML & AI** | ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![SHAP](https://img.shields.io/badge/SHAP-555555?style=flat-square) ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white) ![Generative AI](https://img.shields.io/badge/Generative_AI-8E44AD?style=flat-square) |
-| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Scala](https://img.shields.io/badge/Scala-DC322F?style=flat-square&logo=scala&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) |
-| **High-Performance Computing** | ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white) ![PThreads](https://img.shields.io/badge/PThreads-555555?style=flat-square) |
-| **Web & Mobile** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) |
-| **Tooling** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) |
+| **Machine Learning & AI** | ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![XGBoost](https://img.shields.io/badge/XGBoost-189FDD?style=flat-square) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white) ![SHAP](https://img.shields.io/badge/SHAP%20%2F%20LIME-555555?style=flat-square) |
+| **Generative AI & RAG** | ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white) ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black) ![LLaMA](https://img.shields.io/badge/LLaMA-0467DF?style=flat-square&logo=meta&logoColor=white) ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat-square) ![Chroma](https://img.shields.io/badge/Chroma-FF6446?style=flat-square) |
+| **Data Engineering** | ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white) ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white) ![Delta Lake](https://img.shields.io/badge/Delta_Lake-00ADD4?style=flat-square&logo=delta&logoColor=white) ![Unity Catalog](https://img.shields.io/badge/Unity_Catalog-FF3621?style=flat-square&logo=databricks&logoColor=white) ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white) ![Parquet](https://img.shields.io/badge/Parquet-50ABF1?style=flat-square&logo=apacheparquet&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) |
+| **Cloud, MLOps & Testing** | ![AWS](https://img.shields.io/badge/AWS_S3_·_Glue_·_Athena-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white) ![Locust](https://img.shields.io/badge/Locust-555555?style=flat-square) |
+| **Analytics & Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square) ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/C%2FC++-00599C?style=flat-square&logo=cplusplus&logoColor=white) |
+| **Web & Backend** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) |
 
 ---
 
 ## Certifications
 
-| Certification | Issued | Valid until | Credential |
-| :--- | :--- | :--- | :--- |
-| Databricks Certified Machine Learning Engineer Associate | Sep 2026 | Sep 2028 | [![Verify](https://img.shields.io/badge/Verify-FF3621?style=flat-square&logo=databricks&logoColor=white)](https://credentials.databricks.com/74fa0133-6e3f-4f9a-83d3-cc32196e3315) |
-| Databricks Certified Generative AI Engineer Associate | Aug 2026 | Aug 2028 | [![Verify](https://img.shields.io/badge/Verify-FF3621?style=flat-square&logo=databricks&logoColor=white)](https://credentials.databricks.com/686187f0-9f2a-420f-a556-acdccf59d8a8) |
-| Databricks Certified Data Engineer Associate | — | — | — |
+| Certification | Issued | Expires | Credential ID | |
+| :--- | :--- | :--- | :--- | :--- |
+| **Databricks Certified Machine Learning Engineer Associate** | Sep 2026 | Sep 2028 | 194649332 | [![Verify](https://img.shields.io/badge/Verify-FF3621?style=flat-square&logo=databricks&logoColor=white)](https://credentials.databricks.com/74fa0133-6e3f-4f9a-83d3-cc32196e3315) |
+| **Databricks Certified Generative AI Engineer Associate** | Aug 2026 | Aug 2028 | 191547707 | [![Verify](https://img.shields.io/badge/Verify-FF3621?style=flat-square&logo=databricks&logoColor=white)](https://credentials.databricks.com/686187f0-9f2a-420f-a556-acdccf59d8a8) |
+| Databricks Accreditation — Partner Training: 2026 Data + AI Summit Product Announcement Enablement | Sep 2026 | Sep 2027 | 194954696 | [![Verify](https://img.shields.io/badge/Verify-FF3621?style=flat-square&logo=databricks&logoColor=white)](https://credentials.databricks.com/e85a8ad2-5eeb-403f-b6be-6cc2e282143d) |
 
-**Accreditations**
-
-| Accreditation | Issuer | Credential |
-| :--- | :--- | :--- |
-| Partner Training — 2026 Data + AI Summit Product Announcement Enablement | Databricks Academy | [![Verify](https://img.shields.io/badge/Verify-FF3621?style=flat-square&logo=databricks&logoColor=white)](https://credentials.databricks.com/e85a8ad2-5eeb-403f-b6be-6cc2e282143d) |
+**In progress:** Databricks Certified Data Engineer Associate &nbsp;·&nbsp; Microsoft Certified: Azure Databricks Data Engineer Associate
 
 ---
 
-## What I Work On
+## Education
 
-| Area | Description |
-| :--- | :--- |
-| **Data Engineering** | ETL/ELT pipelines on Databricks with PySpark — ingestion, transformation and data quality at scale |
-| **Analytics** | Turning raw data into clear, actionable insights for business decisions |
-| **Machine Learning** | Feature engineering, model development and evaluation, with explainability built in |
-| **Generative AI** | Applying LLMs to real-world problems, from prototyping to deployable solutions |
+| Qualification | Institution | Year | Result |
+| :--- | :--- | :--- | :--- |
+| **B.Sc. (Hons) Computer Science & Software Engineering** | University of Wolverhampton, UK · CINEC Campus | 2025 – 2026 | First Class Honours |
+| **Higher Diploma in Information Technology** | SLIIT | 2023 – 2024 | Distinction · CGPA 3.26 / 4.0 |
 
 ---
 
@@ -170,9 +168,11 @@ Secure Android blogging app with offline-first storage, image attachments, searc
 
 <div align="center">
 
-**Let's connect** — I'm always happy to talk about data, machine learning and AI.
+### Let's turn your data into impact.
 
-[Portfolio](https://saabith.vercel.app/) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/mohamed-saabith-5980a5223/) &nbsp;·&nbsp; [Email](mailto:saabithsp@gmail.com)
+Open to conversations about data science, machine learning and generative AI.
+
+[Portfolio](https://saabith.vercel.app/) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/mohamed-saabith-5980a5223/) &nbsp;·&nbsp; [Email](mailto:saabithsp@gmail.com) &nbsp;·&nbsp; [Download CV](https://saabith.vercel.app/cv/Mohamed-Saabith-CV.pdf)
 
 <br/>
 
