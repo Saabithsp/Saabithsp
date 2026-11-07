@@ -1,0 +1,106 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Mohamed Saabith - Data Scientist and AI/ML Engineer">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#0B0F19"/>
+    <stop offset="1" stop-color="#161B2E"/>
+  </linearGradient>
+  <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#FF3621"><animate attributeName="stop-color" values="#FF3621;#FF8A00;#A855F7;#FF3621" dur="8s" repeatCount="indefinite"/></stop>
+    <stop offset="1" stop-color="#A855F7"><animate attributeName="stop-color" values="#A855F7;#FF3621;#FF8A00;#A855F7" dur="8s" repeatCount="indefinite"/></stop>
+  </linearGradient>
+  <radialGradient id="glow1"><stop offset="0" stop-color="#FF3621" stop-opacity="0.35"/><stop offset="1" stop-color="#FF3621" stop-opacity="0"/></radialGradient>
+  <radialGradient id="glow2"><stop offset="0" stop-color="#A855F7" stop-opacity="0.30"/><stop offset="1" stop-color="#A855F7" stop-opacity="0"/></radialGradient>
+  <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+    <path d="M40 0H0V40" fill="none" stroke="#FFFFFF" stroke-opacity="0.045"/>
+  </pattern>
+  <clipPath id="clip"><rect width="1200" height="300" rx="18"/></clipPath>
+</defs>
+<style>
+  .edge { stroke: #FF6B3D; stroke-opacity: 0.32; stroke-width: 1.2; stroke-dasharray: 4 8; animation: flow 3s linear infinite; }
+  .node { fill: #0B0F19; stroke: url(#accent); stroke-width: 2.5; }
+  .halo { fill: #FF3621; opacity: 0; animation: pulse 3s ease-out infinite; transform-box: fill-box; transform-origin: center; }
+  .fade { opacity: 0; animation: fadeUp 1s ease-out forwards; }
+  .d1 { animation-delay: 0.1s; } .d2 { animation-delay: 0.5s; } .d3 { animation-delay: 0.9s; }
+  .bar { animation: grow 1.2s 0.4s ease-out both; transform-box: fill-box; transform-origin: left; }
+  @keyframes flow { to { stroke-dashoffset: -24; } }
+  @keyframes pulse { 0% { opacity: 0.45; transform: scale(1); } 100% { opacity: 0; transform: scale(2.6); } }
+  @keyframes fadeUp { from { opacity: 0; transform: translateY(12px); } to { opacity: 1; transform: translateY(0); } }
+  @keyframes grow { from { transform: scaleX(0); } to { transform: scaleX(1); } }
+</style>
+<g clip-path="url(#clip)">
+  <rect width="1200" height="300" fill="url(#bg)"/>
+  <rect width="1200" height="300" fill="url(#grid)"/>
+  <circle cx="200" cy="60" r="260" fill="url(#glow1)">
+    <animate attributeName="cx" values="200;320;200" dur="14s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="1000" cy="260" r="280" fill="url(#glow2)">
+    <animate attributeName="cx" values="1000;880;1000" dur="16s" repeatCount="indefinite"/>
+  </circle>
+
+  <g>
+    <path id="e0" class="edge" d="M820 90L950 65"/>
+    <path id="e1" class="edge" d="M820 90L950 120"/>
+    <path id="e2" class="edge" d="M820 90L950 180"/>
+    <path id="e3" class="edge" d="M820 90L950 235"/>
+    <path id="e4" class="edge" d="M820 150L950 65"/>
+    <path id="e5" class="edge" d="M820 150L950 120"/>
+    <path id="e6" class="edge" d="M820 150L950 180"/>
+    <path id="e7" class="edge" d="M820 150L950 235"/>
+    <path id="e8" class="edge" d="M820 210L950 65"/>
+    <path id="e9" class="edge" d="M820 210L950 120"/>
+    <path id="e10" class="edge" d="M820 210L950 180"/>
+    <path id="e11" class="edge" d="M820 210L950 235"/>
+    <path id="e12" class="edge" d="M950 65L1080 120"/>
+    <path id="e13" class="edge" d="M950 65L1080 180"/>
+    <path id="e14" class="edge" d="M950 120L1080 120"/>
+    <path id="e15" class="edge" d="M950 120L1080 180"/>
+    <path id="e16" class="edge" d="M950 180L1080 120"/>
+    <path id="e17" class="edge" d="M950 180L1080 180"/>
+    <path id="e18" class="edge" d="M950 235L1080 120"/>
+    <path id="e19" class="edge" d="M950 235L1080 180"/>
+  </g>
+  <g fill="#FFB347">
+    <circle r="3"><animateMotion dur="1.6s" begin="0.00s" repeatCount="indefinite"><mpath href="#e0"/></animateMotion><animate attributeName="opacity" values="0;1;1;0" dur="1.6s" begin="0.00s" repeatCount="indefinite"/></circle>
+    <circle r="3"><animateMotion dur="1.6s" begin="0.37s" repeatCount="indefinite"><mpath href="#e2"/></animateMotion><animate attributeName="opacity" values="0;1;1;0" dur="1.6s" begin="0.37s" repeatCount="indefinite"/></circle>
+    <circle r="3"><animateMotion dur="1.6s" begin="0.74s" repeatCount="indefinite"><mpath href="#e4"/></animateMotion><animate attributeName="opacity" values="0;1;1;0" dur="1.6s" begin="0.74s" repeatCount="indefinite"/></circle>
+    <circle r="3"><animateMotion dur="1.6s" begin="1.11s" repeatCount="indefinite"><mpath href="#e6"/></animateMotion><animate attributeName="opacity" values="0;1;1;0" dur="1.6s" begin="1.11s" repeatCount="indefinite"/></circle>
+    <circle r="3"><animateMotion dur="1.6s" begin="1.48s" repeatCount="indefinite"><mpath href="#e8"/></animateMotion><animate attributeName="opacity" values="0;1;1;0" dur="1.6s" begin="1.48s" repeatCount="indefinite"/></circle>
+    <circle r="3"><animateMotion dur="1.6s" begin="1.85s" repeatCount="indefinite"><mpath href="#e10"/></animateMotion><animate attributeName="opacity" values="0;1;1;0" dur="1.6s" begin="1.85s" repeatCount="indefinite"/></circle>
+    <circle r="3"><animateMotion dur="1.6s" begin="2.22s" repeatCount="indefinite"><mpath href="#e12"/></animateMotion><animate attributeName="opacity" values="0;1;1;0" dur="1.6s" begin="2.22s" repeatCount="indefinite"/></circle>
+    <circle r="3"><animateMotion dur="1.6s" begin="2.59s" repeatCount="indefinite"><mpath href="#e14"/></animateMotion><animate attributeName="opacity" values="0;1;1;0" dur="1.6s" begin="2.59s" repeatCount="indefinite"/></circle>
+    <circle r="3"><animateMotion dur="1.6s" begin="2.96s" repeatCount="indefinite"><mpath href="#e16"/></animateMotion><animate attributeName="opacity" values="0;1;1;0" dur="1.6s" begin="2.96s" repeatCount="indefinite"/></circle>
+    <circle r="3"><animateMotion dur="1.6s" begin="0.33s" repeatCount="indefinite"><mpath href="#e18"/></animateMotion><animate attributeName="opacity" values="0;1;1;0" dur="1.6s" begin="0.33s" repeatCount="indefinite"/></circle>
+  </g>
+  <g>
+    <circle class="halo" cx="820" cy="90" r="8" style="animation-delay:0.00s"/>
+    <circle class="node" cx="820" cy="90" r="8"/>
+    <circle class="halo" cx="820" cy="150" r="8" style="animation-delay:0.31s"/>
+    <circle class="node" cx="820" cy="150" r="8"/>
+    <circle class="halo" cx="820" cy="210" r="8" style="animation-delay:0.62s"/>
+    <circle class="node" cx="820" cy="210" r="8"/>
+    <circle class="halo" cx="950" cy="65" r="8" style="animation-delay:0.93s"/>
+    <circle class="node" cx="950" cy="65" r="8"/>
+    <circle class="halo" cx="950" cy="120" r="8" style="animation-delay:1.24s"/>
+    <circle class="node" cx="950" cy="120" r="8"/>
+    <circle class="halo" cx="950" cy="180" r="8" style="animation-delay:1.55s"/>
+    <circle class="node" cx="950" cy="180" r="8"/>
+    <circle class="halo" cx="950" cy="235" r="8" style="animation-delay:1.86s"/>
+    <circle class="node" cx="950" cy="235" r="8"/>
+    <circle class="halo" cx="1080" cy="120" r="8" style="animation-delay:2.17s"/>
+    <circle class="node" cx="1080" cy="120" r="8"/>
+    <circle class="halo" cx="1080" cy="180" r="8" style="animation-delay:2.48s"/>
+    <circle class="node" cx="1080" cy="180" r="8"/>
+  </g>
+  <g class="fade d1">
+    <text x="80" y="128" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="58" font-weight="700" fill="#FFFFFF" letter-spacing="-0.5">Mohamed Saabith</text>
+  </g>
+  <rect class="bar" x="82" y="148" width="140" height="5" rx="2.5" fill="url(#accent)"/>
+  <g class="fade d2">
+    <text x="80" y="196" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="26" font-weight="500" fill="#E6EDF3">Data Scientist  ·  AI/ML Engineer</text>
+  </g>
+  <g class="fade d3">
+    <text x="80" y="236" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="16" fill="#8B949E">Databricks  /  PySpark  /  Machine Learning  /  Generative AI</text>
+  </g>
+  <rect x="0" y="296" width="1200" height="4" fill="url(#accent)"/>
+</g>
+</svg>

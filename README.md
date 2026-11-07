@@ -1,20 +1,15 @@
 <div align="center">
 
-<img src="https://saabith.vercel.app/img/me.webp" width="120" alt="Mohamed Saabith" />
+<img src="assets/header.svg" width="100%" alt="Mohamed Saabith — Data Scientist and AI/ML Engineer" />
 
-# Mohamed Saabith
-
-**Data Scientist &nbsp;·&nbsp; AI/ML Engineer &nbsp;·&nbsp; 2× Databricks Certified**
-
-I turn raw data into predictive ML models and LLM-powered applications.<br/>
-Colombo, Sri Lanka
+<a href="https://saabith.vercel.app/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1200&color=FF5A36&center=true&vCenter=true&width=620&height=40&lines=Turning+raw+data+into+predictive+ML+models;Building+LLM-powered+RAG+applications;Scalable+PySpark+pipelines+on+Databricks;2%C3%97+Databricks+Certified+%C2%B7+Colombo%2C+Sri+Lanka" alt="Turning raw data into predictive ML models; building LLM-powered RAG applications; scalable PySpark pipelines on Databricks" /></a>
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-saabith.vercel.app-000000?style=flat-square&logo=vercel&logoColor=white)](https://saabith.vercel.app/)
-[![CV](https://img.shields.io/badge/Download-CV-2EA44F?style=flat-square&logo=readdotcv&logoColor=white)](https://saabith.vercel.app/cv/Mohamed-Saabith-CV.pdf)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-saabith-5980a5223/)
-[![Email](https://img.shields.io/badge/saabithsp@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:saabithsp@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-saabith.vercel.app-1F2328?style=flat-square&logo=vercel&logoColor=white)](https://saabith.vercel.app/)
+[![CV](https://img.shields.io/badge/Download-CV-1F2328?style=flat-square&logo=readdotcv&logoColor=2EA44F)](https://saabith.vercel.app/cv/Mohamed-Saabith-CV.pdf)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1F2328?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/mohamed-saabith-5980a5223/)
+[![Email](https://img.shields.io/badge/saabithsp@gmail.com-1F2328?style=flat-square&logo=gmail&logoColor=D14836)](mailto:saabithsp@gmail.com)
 
 </div>
 
@@ -84,7 +79,7 @@ A personalised medication-risk platform. Multi-model ML (XGBoost, Random Forest,
 
 - Processed **1.8M+ DrugBank records** with PySpark, cutting preprocessing time by **60%**
 
-![XGBoost](https://img.shields.io/badge/XGBoost-189FDD?style=flat-square) ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white) ![RAG](https://img.shields.io/badge/RAG-8E44AD?style=flat-square) ![SHAP](https://img.shields.io/badge/SHAP%20%2F%20LIME-555555?style=flat-square) ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-1F2328?style=flat-square) ![PySpark](https://img.shields.io/badge/PySpark-1F2328?style=flat-square&logo=apachespark&logoColor=E25A1C) ![RAG](https://img.shields.io/badge/RAG-1F2328?style=flat-square) ![SHAP](https://img.shields.io/badge/SHAP%20%2F%20LIME-1F2328?style=flat-square) ![Ollama](https://img.shields.io/badge/Ollama-1F2328?style=flat-square&logo=ollama&logoColor=white)
 
 ### Sales Forecasting Pipeline &nbsp;<sub>Data Engineering · Forecasting</sub>
 
@@ -92,7 +87,7 @@ An event-driven lakehouse-style pipeline: RabbitMQ ingestion with dead-letter qu
 
 - Handles **20K+ events per day**, with **30% lower storage** using Parquet and **25% better forecast accuracy**
 
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white) ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white) ![AWS](https://img.shields.io/badge/AWS_S3_·_Glue_·_Athena-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white) ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-1F2328?style=flat-square&logo=rabbitmq&logoColor=FF6600) ![PySpark](https://img.shields.io/badge/PySpark-1F2328?style=flat-square&logo=apachespark&logoColor=E25A1C) ![AWS](https://img.shields.io/badge/AWS_S3_·_Glue_·_Athena-1F2328?style=flat-square&logo=amazonwebservices&logoColor=white) ![Power BI](https://img.shields.io/badge/Power_BI-1F2328?style=flat-square&logo=powerbi&logoColor=F2C811)
 
 ### Face Mask Detection &nbsp;<sub>Deep Learning · Computer Vision</sub>
 
@@ -100,7 +95,7 @@ A CNN image classifier using ResNet50 transfer learning, with an augmentation pi
 
 - Reached **92% accuracy**; augmentation reduced overfitting by **~20%** and tuning lifted F1 by **~10%**
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white) ![ResNet50](https://img.shields.io/badge/ResNet50-555555?style=flat-square)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-1F2328?style=flat-square&logo=tensorflow&logoColor=FF6F00) ![Keras](https://img.shields.io/badge/Keras-1F2328?style=flat-square&logo=keras&logoColor=D00000) ![ResNet50](https://img.shields.io/badge/ResNet50-1F2328?style=flat-square)
 
 <details>
 <summary><b>Also built — web, mobile and systems projects</b></summary>
@@ -123,24 +118,24 @@ A CNN image classifier using ResNet50 transfer learning, with an augmentation pi
 
 | Area | Technologies |
 | :--- | :--- |
-| **Machine Learning & AI** | ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![XGBoost](https://img.shields.io/badge/XGBoost-189FDD?style=flat-square) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white) ![SHAP](https://img.shields.io/badge/SHAP%20%2F%20LIME-555555?style=flat-square) |
-| **Generative AI & RAG** | ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white) ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black) ![LLaMA](https://img.shields.io/badge/LLaMA-0467DF?style=flat-square&logo=meta&logoColor=white) ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat-square) ![Chroma](https://img.shields.io/badge/Chroma-FF6446?style=flat-square) |
-| **Data Engineering** | ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white) ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white) ![Delta Lake](https://img.shields.io/badge/Delta_Lake-00ADD4?style=flat-square&logo=delta&logoColor=white) ![Unity Catalog](https://img.shields.io/badge/Unity_Catalog-FF3621?style=flat-square&logo=databricks&logoColor=white) ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white) ![Parquet](https://img.shields.io/badge/Parquet-50ABF1?style=flat-square&logo=apacheparquet&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) |
-| **Cloud, MLOps & Testing** | ![AWS](https://img.shields.io/badge/AWS_S3_·_Glue_·_Athena-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white) ![Locust](https://img.shields.io/badge/Locust-555555?style=flat-square) |
-| **Analytics & Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square) ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/C%2FC++-00599C?style=flat-square&logo=cplusplus&logoColor=white) |
-| **Web & Backend** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) |
+| **Machine Learning & AI** | ![scikit-learn](https://img.shields.io/badge/scikit--learn-1F2328?style=flat-square&logo=scikitlearn&logoColor=F7931E) ![XGBoost](https://img.shields.io/badge/XGBoost-1F2328?style=flat-square) ![TensorFlow](https://img.shields.io/badge/TensorFlow-1F2328?style=flat-square&logo=tensorflow&logoColor=FF6F00) ![Keras](https://img.shields.io/badge/Keras-1F2328?style=flat-square&logo=keras&logoColor=D00000) ![SHAP](https://img.shields.io/badge/SHAP%20%2F%20LIME-1F2328?style=flat-square) |
+| **Generative AI & RAG** | ![OpenAI](https://img.shields.io/badge/OpenAI-1F2328?style=flat-square&logo=openai&logoColor=white) ![Hugging Face](https://img.shields.io/badge/Hugging_Face-1F2328?style=flat-square&logo=huggingface&logoColor=FFD21E) ![LLaMA](https://img.shields.io/badge/LLaMA-1F2328?style=flat-square&logo=meta&logoColor=0467DF) ![Ollama](https://img.shields.io/badge/Ollama-1F2328?style=flat-square&logo=ollama&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1F2328?style=flat-square&logo=langchain&logoColor=white) ![FAISS](https://img.shields.io/badge/FAISS-1F2328?style=flat-square) ![Chroma](https://img.shields.io/badge/Chroma-1F2328?style=flat-square) |
+| **Data Engineering** | ![Databricks](https://img.shields.io/badge/Databricks-1F2328?style=flat-square&logo=databricks&logoColor=FF3621) ![PySpark](https://img.shields.io/badge/PySpark-1F2328?style=flat-square&logo=apachespark&logoColor=E25A1C) ![Delta Lake](https://img.shields.io/badge/Delta_Lake-1F2328?style=flat-square&logo=delta&logoColor=00ADD4) ![Unity Catalog](https://img.shields.io/badge/Unity_Catalog-1F2328?style=flat-square&logo=databricks&logoColor=FF3621) ![MLflow](https://img.shields.io/badge/MLflow-1F2328?style=flat-square&logo=mlflow&logoColor=0194E2) ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-1F2328?style=flat-square&logo=rabbitmq&logoColor=FF6600) ![Parquet](https://img.shields.io/badge/Parquet-1F2328?style=flat-square&logo=apacheparquet&logoColor=50ABF1) ![Pandas](https://img.shields.io/badge/Pandas-1F2328?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-1F2328?style=flat-square&logo=numpy&logoColor=white) |
+| **Cloud, MLOps & Testing** | ![AWS](https://img.shields.io/badge/AWS_S3_·_Glue_·_Athena-1F2328?style=flat-square&logo=amazonwebservices&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-1F2328?style=flat-square&logo=docker&logoColor=2496ED) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-1F2328?style=flat-square&logo=githubactions&logoColor=2088FF) ![pytest](https://img.shields.io/badge/pytest-1F2328?style=flat-square&logo=pytest&logoColor=0A9EDC) ![Locust](https://img.shields.io/badge/Locust-1F2328?style=flat-square) |
+| **Analytics & Languages** | ![Python](https://img.shields.io/badge/Python-1F2328?style=flat-square&logo=python&logoColor=FFD43B) ![SQL](https://img.shields.io/badge/SQL-1F2328?style=flat-square&logo=postgresql&logoColor=4479A1) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1F2328?style=flat-square&logo=postgresql&logoColor=4169E1) ![Power BI](https://img.shields.io/badge/Power_BI-1F2328?style=flat-square&logo=powerbi&logoColor=F2C811) ![Matplotlib](https://img.shields.io/badge/Matplotlib-1F2328?style=flat-square) ![Seaborn](https://img.shields.io/badge/Seaborn-1F2328?style=flat-square) ![Java](https://img.shields.io/badge/Java-1F2328?style=flat-square&logo=openjdk&logoColor=ED8B00) ![C++](https://img.shields.io/badge/C%2FC++-1F2328?style=flat-square&logo=cplusplus&logoColor=659AD2) |
+| **Web & Backend** | ![React](https://img.shields.io/badge/React-1F2328?style=flat-square&logo=react&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-1F2328?style=flat-square&logo=typescript&logoColor=3178C6) ![Django](https://img.shields.io/badge/Django-1F2328?style=flat-square&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-1F2328?style=flat-square&logo=fastapi&logoColor=009688) ![Node.js](https://img.shields.io/badge/Node.js-1F2328?style=flat-square&logo=nodedotjs&logoColor=339933) ![MongoDB](https://img.shields.io/badge/MongoDB-1F2328?style=flat-square&logo=mongodb&logoColor=47A248) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-1F2328?style=flat-square&logo=tailwindcss&logoColor=06B6D4) |
 
 ---
 
 ## Certifications
 
-| Certification | Issued | Expires | Credential ID | |
+| Credential | Type | Issued | Expires | Verification |
 | :--- | :--- | :--- | :--- | :--- |
-| **Databricks Certified Machine Learning Engineer Associate** | Sep 2026 | Sep 2028 | 194649332 | [![Verify](https://img.shields.io/badge/Verify-FF3621?style=flat-square&logo=databricks&logoColor=white)](https://credentials.databricks.com/74fa0133-6e3f-4f9a-83d3-cc32196e3315) |
-| **Databricks Certified Generative AI Engineer Associate** | Aug 2026 | Aug 2028 | 191547707 | [![Verify](https://img.shields.io/badge/Verify-FF3621?style=flat-square&logo=databricks&logoColor=white)](https://credentials.databricks.com/686187f0-9f2a-420f-a556-acdccf59d8a8) |
-| Databricks Accreditation — Partner Training: 2026 Data + AI Summit Product Announcement Enablement | Sep 2026 | Sep 2027 | 194954696 | [![Verify](https://img.shields.io/badge/Verify-FF3621?style=flat-square&logo=databricks&logoColor=white)](https://credentials.databricks.com/e85a8ad2-5eeb-403f-b6be-6cc2e282143d) |
+| **Databricks Certified Machine Learning Engineer Associate** | Certification | Sep 2026 | Sep 2028 | [![Verify](https://img.shields.io/badge/Verify-FF3621?style=flat-square&logo=databricks&logoColor=white)](https://credentials.databricks.com/74fa0133-6e3f-4f9a-83d3-cc32196e3315) <br/><sub>ID 194649332</sub> |
+| **Databricks Certified Generative AI Engineer Associate** | Certification | Aug 2026 | Aug 2028 | [![Verify](https://img.shields.io/badge/Verify-FF3621?style=flat-square&logo=databricks&logoColor=white)](https://credentials.databricks.com/686187f0-9f2a-420f-a556-acdccf59d8a8) <br/><sub>ID 191547707</sub> |
+| **Databricks Partner Training — 2026 Data + AI Summit Product Announcement Enablement** | Accreditation | Sep 2026 | Sep 2027 | [![Verify](https://img.shields.io/badge/Verify-FF3621?style=flat-square&logo=databricks&logoColor=white)](https://credentials.databricks.com/e85a8ad2-5eeb-403f-b6be-6cc2e282143d) <br/><sub>ID 194954696</sub> |
 
-**In progress:** Databricks Certified Data Engineer Associate &nbsp;·&nbsp; Microsoft Certified: Azure Databricks Data Engineer Associate
+<sub><b>In progress:</b> Databricks Certified Data Engineer Associate &nbsp;·&nbsp; Microsoft Certified: Azure Databricks Data Engineer Associate</sub>
 
 ---
 
@@ -153,13 +148,13 @@ A CNN image classifier using ResNet50 transfer learning, with an augmentation pi
 
 ---
 
-## GitHub Activity
+## Contribution Activity
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Saabithsp&theme=dark&hide_border=true&background=0D1117" />
-  <img src="https://streak-stats.demolab.com/?user=Saabithsp&theme=default&hide_border=true" alt="GitHub contribution streak for Saabithsp" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Saabithsp/Saabithsp/output/github-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/Saabithsp/Saabithsp/output/github-snake.svg" alt="Animation of a snake eating Saabithsp's GitHub contribution graph" />
 </picture>
 
 </div>
@@ -173,9 +168,5 @@ A CNN image classifier using ResNet50 transfer learning, with an augmentation pi
 Open to conversations about data science, machine learning and generative AI.
 
 [Portfolio](https://saabith.vercel.app/) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/mohamed-saabith-5980a5223/) &nbsp;·&nbsp; [Email](mailto:saabithsp@gmail.com) &nbsp;·&nbsp; [Download CV](https://saabith.vercel.app/cv/Mohamed-Saabith-CV.pdf)
-
-<br/>
-
-![Profile views](https://komarev.com/ghpvc/?username=Saabithsp&style=flat-square&color=555555&label=Profile+views)
 
 </div>
