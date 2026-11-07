@@ -1,151 +1,73 @@
-
 <div align="center">
 
-<p align="center">
-  <img align="center" style="border-radius: 50%; height: 200px; width: 200px;" src="https://media.giphy.com/avatars/mwooodward/cIe5MvDvX4Vc.gif" />
-</p>
+# Mohamed Saabith
 
-<h1>👋 Hi, I'm Saabith!</h1>
+**Data Scientist &nbsp;·&nbsp; Databricks Certified &nbsp;·&nbsp; Data Engineering & Generative AI**
 
-<h3>💼 Data Scientist</h3>
-<h3>🧱 Databricks Certified | 🤖 AI/ML & Data Engineering</h3>
+Building scalable data pipelines and machine learning solutions on the Databricks Lakehouse.<br/>
+Based in Sri Lanka.
 
-<p>🇱🇰 Sri Lanka · Turning Data into Insights</p>
+<br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF3621&center=true&vCenter=true&width=650&lines=Data+Scientist;Databricks+Certified;Data+Engineering+with+PySpark;Generative+AI+Enthusiast;Always+Learning+%26+Building" alt="Typing introduction"/>
-
-<p>
-<a href="https://github.com/Saabithsp"><img src="https://img.shields.io/badge/GitHub-Saabithsp-181717?style=flat&logo=github" alt="GitHub"/></a>
-<a href="https://www.linkedin.com/in/mohamed-saabith-5980a5223/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:saabithsp@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-saabith-5980a5223/)
+[![Email](https://img.shields.io/badge/saabithsp@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:saabithsp@gmail.com)
+[![GitHub](https://img.shields.io/github/followers/Saabithsp?style=flat-square&logo=github&label=Follow&color=181717)](https://github.com/Saabithsp)
 
 </div>
 
 ---
 
-## 🚀 About Me
+## About
 
-- 💼 Data Scientist
-- 🏅 **Databricks Certified**
-- 🧱 Focused on Databricks, Apache Spark, PySpark, and Data Engineering
-- 🤖 Interested in Generative AI and Machine Learning
-- 📊 Passionate about data analytics and scalable data pipelines
-- 📚 Continuously learning and building practical data science projects
+I'm a data scientist working at the intersection of **data engineering** and **machine learning**. My work centres on the Databricks platform — designing reliable PySpark pipelines, turning raw data into analysis-ready datasets, and taking machine learning and generative AI use cases from experimentation towards production.
 
----
-
-## 🧰 Technical Skills
-
-### 🧱 Databricks & Data Engineering
-
-<p align="center">
-<a href="https://www.databricks.com/"><img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks"/></a>
-<a href="https://spark.apache.org/"><img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="Apache Spark"/></a>
-<a href="https://spark.apache.org/docs/latest/api/python/"><img src="https://img.shields.io/badge/PySpark-306998?style=for-the-badge&logo=python&logoColor=white" alt="PySpark"/></a>
-</p>
-
-### 💻 Programming & Query Languages
-
-<p align="center">
-<a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></a>
-<a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/></a>
-<a href="https://www.scala-lang.org/"><img src="https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white" alt="Scala"/></a>
-</p>
-
-### 🤖 Data Science, Machine Learning & AI
-
-<p align="center">
-<img src="https://img.shields.io/badge/Generative_AI-8E44AD?style=for-the-badge" alt="Generative AI"/>
-<img src="https://img.shields.io/badge/Machine_Learning-2455A4?style=for-the-badge" alt="Machine Learning"/>
-<a href="https://pandas.pydata.org/"><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/></a>
-<a href="https://numpy.org/"><img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/></a>
-<a href="https://scikit-learn.org/"><img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/></a>
-</p>
-
-### ⚙️ Tools & Platforms
-
-<p align="center">
-<a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/></a>
-<a href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-<a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/></a>
-</p>
+- **Core focus:** Databricks, Apache Spark and PySpark for large-scale data processing
+- **Machine learning:** predictive modelling and analytics with Python and scikit-learn
+- **Generative AI:** building practical applications with large language models
+- **Approach:** clean, scalable pipelines that deliver data people can trust
 
 ---
 
-## 🏅 Databricks Certifications
+## Tech Stack
+
+| Area | Technologies |
+| :--- | :--- |
+| **Data Engineering** | ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white) ![PySpark](https://img.shields.io/badge/PySpark-306998?style=flat-square&logo=python&logoColor=white) |
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Scala](https://img.shields.io/badge/Scala-DC322F?style=flat-square&logo=scala&logoColor=white) |
+| **ML & AI** | ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Generative AI](https://img.shields.io/badge/Generative_AI-8E44AD?style=flat-square) |
+| **Tooling** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) |
+
+---
+
+## Certifications
+
+| Certification | Issuer |
+| :--- | :--- |
+| Databricks Certified Generative AI Engineer Associate | [Databricks](https://www.databricks.com/learn/certification) |
+| Databricks Certified Machine Learning Associate | [Databricks](https://www.databricks.com/learn/certification) |
+| Databricks Certified Data Engineer Associate | [Databricks](https://www.databricks.com/learn/certification) |
+
+---
+
+## What I Work On
+
+| Area | Description |
+| :--- | :--- |
+| **Data Engineering** | ETL/ELT pipelines on Databricks with PySpark — ingestion, transformation and data quality at scale |
+| **Analytics** | Turning raw data into clear, actionable insights for business decisions |
+| **Machine Learning** | Feature engineering, model development and evaluation for predictive use cases |
+| **Generative AI** | Applying LLMs to real-world problems, from prototyping to deployable solutions |
+
+---
+
+## GitHub Activity
 
 <div align="center">
 
-<p>
-<a href="https://www.databricks.com/learn/certification">
-<img src="https://img.shields.io/badge/Databricks-Certified_Generative_AI_Associate-FF3621?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks Certified Generative AI Associate"/>
-</a>
-</p>
-
-<p>
-<a href="https://www.databricks.com/learn/certification">
-<img src="https://img.shields.io/badge/Databricks-Certified_Machine_Learning_Engineer_Associate-FF3621?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks Certified Machine Learning Engineer Associate"/>
-</a>
-</p>
-
-<p>
-<a href="https://www.databricks.com/learn/certification">
-<img src="https://img.shields.io/badge/Databricks-Certified_Data_Engineer_Associate-FF3621?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks Certified Data Engineer Associate"/>
-</a>
-</p>
-
-</div>
-
----
-
-## 📂 Featured Projects
-
-🚧 More projects coming soon!
-
-- 🧱 **Data Engineering Pipelines** — Data transformation and processing with Databricks and PySpark.
-- 📊 **Data Analytics** — Turning raw data into actionable business insights.
-- 🤖 **Machine Learning** — Exploring model development and predictive analytics.
-- ✨ **Generative AI** — Exploring LLMs and practical AI applications.
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<a href="https://github.com/Saabithsp">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Saabithsp&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="Saabith's GitHub Statistics"/>
-</a>
-<a href="https://github.com/Saabithsp">
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saabithsp&layout=compact&theme=github_dark&hide_border=true" alt="Saabith's Most Used Languages"/>
-</a>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com/?user=Saabithsp&theme=github-dark-blue&hide_border=true" alt="GitHub Contribution Streak"/>
-
-</div>
-
----
-
-## 🤝 Connect With Me
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/mohamed-saabith-5980a5223/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://github.com/Saabithsp">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<a href="mailto:saabithsp@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-
-<br/><br/>
-
-📧 **[saabithsp@gmail.com](mailto:saabithsp@gmail.com)**
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Saabithsp&theme=dark&hide_border=true&background=0D1117" />
+  <img src="https://streak-stats.demolab.com/?user=Saabithsp&theme=default&hide_border=true" alt="GitHub contribution streak for Saabithsp" />
+</picture>
 
 </div>
 
@@ -153,10 +75,6 @@
 
 <div align="center">
 
-💡 *Turning data into insights and building intelligent solutions.*
-
-### 🙏 Thanks for visiting my profile!
-
-⭐ Feel free to explore my repositories and connect with me!
+<sub>Open to collaborations on data engineering, machine learning and generative AI projects — feel free to reach out.</sub>
 
 </div>
