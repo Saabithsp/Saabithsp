@@ -41,11 +41,11 @@ I'm a data scientist working at the intersection of **data engineering** and **m
 
 ## Certifications
 
-| Certification | Issuer |
-| :--- | :--- |
-| Databricks Certified Generative AI Engineer Associate | [Databricks](https://www.databricks.com/learn/certification) |
-| Databricks Certified Machine Learning Associate | [Databricks](https://www.databricks.com/learn/certification) |
-| Databricks Certified Data Engineer Associate | [Databricks](https://www.databricks.com/learn/certification) |
+| Certification | Issuer | Credential |
+| :--- | :--- | :--- |
+| Databricks Certified Generative AI Engineer Associate | Databricks | [![Verify](https://img.shields.io/badge/Verify-FF3621?style=flat-square&logo=databricks&logoColor=white)](https://credentials.databricks.com/686187f0-9f2a-420f-a556-acdccf59d8a8) |
+| Databricks Certified Machine Learning Associate | Databricks | [![Verify](https://img.shields.io/badge/Verify-FF3621?style=flat-square&logo=databricks&logoColor=white)](https://credentials.databricks.com/74fa0133-6e3f-4f9a-83d3-cc32196e3315) |
+| Databricks Certified Data Engineer Associate | Databricks | — |
 
 ---
 
