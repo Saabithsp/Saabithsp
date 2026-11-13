@@ -167,6 +167,6 @@ A CNN image classifier using ResNet50 transfer learning, with an augmentation pi
 
 Open to conversations about data science, machine learning and generative AI.
 
-[Portfolio](https://saabith.vercel.app/) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/mohamed-saabith-5980a5223/) &nbsp;·&nbsp; [Email](mailto:saabithsp@gmail.com) &nbsp;·&nbsp; [Download CV](https://saabith.vercel.app/cv/Mohamed-Saabith-CV.pdf)
+[Portfolio](https://saabith.vercel.app/) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/mohamed-saabith) &nbsp;·&nbsp; [Email](mailto:saabithsp@gmail.com) &nbsp;·&nbsp; [Download CV](https://saabith.vercel.app/cv/Mohamed-Saabith-CV.pdf)
 
 </div>
