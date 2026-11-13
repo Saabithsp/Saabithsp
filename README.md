@@ -8,7 +8,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-saabith.vercel.app-1F2328?style=flat-square&logo=vercel&logoColor=white)](https://saabith.vercel.app/)
 [![CV](https://img.shields.io/badge/Download-CV-1F2328?style=flat-square&logo=readdotcv&logoColor=2EA44F)](https://saabith.vercel.app/cv/Mohamed-Saabith-CV.pdf)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1F2328?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/mohamed-saabith-5980a5223/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1F2328?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/saabith/)
 [![Email](https://img.shields.io/badge/saabithsp@gmail.com-1F2328?style=flat-square&logo=gmail&logoColor=D14836)](mailto:saabithsp@gmail.com)
 
 </div>
