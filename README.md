@@ -147,20 +147,6 @@ A CNN image classifier using ResNet50 transfer learning, with an augmentation pi
 | **Higher Diploma in Information Technology** | SLIIT | 2023 – 2024 | Distinction · CGPA 3.26 / 4.0 |
 
 ---
-
-## Contribution Activity
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Saabithsp/Saabithsp/output/github-snake-dark.svg" />
-  <img src="https://raw.githubusercontent.com/Saabithsp/Saabithsp/output/github-snake.svg" alt="Animation of a snake eating Saabithsp's GitHub contribution graph" />
-</picture>
-
-</div>
-
----
-
 <div align="center">
 
 ### Let's turn your data into impact.
